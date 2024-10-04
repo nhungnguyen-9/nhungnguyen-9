@@ -17,12 +17,6 @@
  <br />
 <h2 align="center">🔍 Where to find me 🔍</h2>
 <div align="center">
-  <a href="https://www.facebook.com/profile.php?id=100064915633758" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="nhungnguyen-facebook" />
-  </a>
-  <a href="https://www.linkedin.com/in/nhung-nguyen-82043a253/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="nhungnguyen-linkedin" />
-  </a>
   <a href="mailto:nguyennhung9846@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="nhungnguyen-email" />
   </a>
